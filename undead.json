@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Shield cyberpsychos",
+		"description": "A cyberpsycho carrying remnants of a shield. Size may vary.",
+		"count": 0
+	},
+	{
+		"name": "Tank",
+		"description": "A cyberpsycho juiced up with mantis blades. Only large armaments can take it down.",
+		"count": 0
+	},
+	{
+		"name": "MedTech",
+		"description": "Even when mad, they still their fellow man. Can ressurect their psycho friends 5 times.",
+		"count": 0
+	},
+	{
+		"name": "EPL",
+		"description": "A cyberpsycho carrying an arm-attached, tazing missile launcher.",
+		"count": 0
+	},
+	{
+		"name": "Mantis Blade",
+		"description": "A cyberpsycho carrying mantis blade. Size may vary.",
+		"count": 0
+	},
+	{
+		"name": "Conga",
+		"description": "A cheap brain implant hijacked by a troll malware that compels the implanted to form a conga line.",
+		"count": 0
+	}
+]
