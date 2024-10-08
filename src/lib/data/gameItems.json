@@ -1,0 +1,122 @@
+{
+	"humanUpgrades": [
+		{
+			"img": "shield.png",
+			"name": "Popup Shield",
+			"description": "Shields can block on hits except for large ammo. Transferable upon zombification. ",
+			"tags": ["Permanent"]
+		},
+		{
+			"img": "leg.png",
+			"name": "Leg Augmentation",
+			"description": "A player can crawl during bleeding (1 step per count)",
+			"tags": ["Permanent"]
+		},
+		{
+			"img": "mantis.png",
+			"name": "Mantis Blades",
+			"description": "Melee weapon that slowly upgrades.",
+			"tags": ["Permanent"]
+		},
+		{
+			"img": "barrier.png",
+			"name": "Barrier of Protection",
+			"description": "A flexible hoop where any human inside the circle is immune to undead tags but not dart tags. Lasts 1 min.",
+			"tags": ["One Time Use"]
+		},
+		{
+			"img": "resurrection.png",
+			"name": "Resurrection.exe",
+			"description": "Provides an extra life against undead tags.",
+			"tags": ["One Time Use"]
+		},
+		{
+			"img": "insurance.png",
+			"name": "Platinum Insurance Policy",
+			"description": "Instantly ends the bleed-out timer when used.",
+			"tags": ["Permanent"]
+		},
+		{
+			"img": "medtech.png",
+			"name": "Medtech",
+			"description": "Can un-stun players by placing a hand on the back or an arm for 10 seconds. The stunned player cannot move while being un-stunned. ",
+			"tags": ["Permanent"]
+		}
+	],
+	"undeadUpgrades": [
+		{
+			"img": "art.png",
+			"name": "Named NPC",
+			"description": "Must walk. Carries a large weapon that stuns players. Only affected by large ammo (mega, socks, rockets, etc.)",
+			"tags": ["Permanent"]
+		},
+		{
+			"img": "undead-shield.png",
+			"name": "Shield cyberpsychos",
+			"description": "Cannot tag. Behaves like human shields.",
+			"tags": ["Upgradable", "Chaper Long"]
+		},
+		{
+			"img": "tank.png",
+			"name": "Tank",
+			"description": "Must walk. Tags using two-hand rules (Two pool noodles). Only affected by large ammo (mega, socks, rockets, etc.)",
+			"tags": ["Upgradable", "Chaper Long"]
+		},
+		{
+			"img": "undead-medtech.png",
+			"name": "Medtech",
+			"description": "Wear a sash with flags. It can revive up to 5 zombies quickly. Must respawn to gain flags back.",
+			"tags": ["Upgradable", "Chaper Long"]
+		},
+		{
+			"img": "epl.png",
+			"name": "E.P.L. (Electrifying projectile launcher",
+			"description": "Wears a green sash. Carries 1 - 3 brains. Tags using two-hand rules.",
+			"tags": ["Upgradable", "Chaper Long"]
+		},
+		{
+			"img": "undead-blades.png",
+			"name": "Mantis Blades",
+			"description": "Uses pool noodles to extend the range. Noodle size increases with upgrades.",
+			"tags": ["Upgradable", "Chaper Long"]
+		},
+		{
+			"img": "conga.png",
+			"name": "Conga Malware",
+			"description": "Must Walk. Multiple zombies are attached together. Still dangerous until all zombies in line are tagged.",
+			"tags": ["Upgradable", "Chaper Long"]
+		}
+	],
+	"items": [
+		{
+			"img": "bitcoin.png",
+			"name": "Bitcoin",
+			"description": "100 Eurodollars used to purchases items from the shop."
+		},
+		{
+			"img": "datashard.png",
+			"name": "Datashard",
+			"description": "Datashard gives your faction 1 victory point when brought back to their faction’s base."
+		},
+		{
+			"img": "crate.png",
+			"name": "Crates",
+			"description": "crates give 5 victory points when brought back to their faction’s base."
+		},
+		{
+			"img": "boosters.png",
+			"name": "Health Boosters",
+			"description": "when turned in to your base Moderator, will provide that player with an extra life."
+		},
+		{
+			"img": "maxdoc.png",
+			"name": "MaxDoc Inhaler",
+			"description": "when turned in to your base Moderator, will give that player two extra lives."
+		},
+		{
+			"img": "intel.png",
+			"name": "Found Intel",
+			"description": "When exchanged with an NPC. They will provide hints for their corresponding quest."
+		}
+	]
+}
